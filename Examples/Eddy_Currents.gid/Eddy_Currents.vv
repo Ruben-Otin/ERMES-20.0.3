@@ -1,0 +1,37 @@
+BeginZE C:/ERMES/ERMES-20.0.3/Examples/Eddy_Currents.gid/Eddy_Currents.vv
+   x -0.290363907814025879 0.255805432796478271
+   y 0.1491813063621521 -0.156030952930450439
+   z -0.828608572483062744 0.800108611583709717
+   e 0.213701307773590088
+   v -0.418199717998504639 -0.109908029437065125 -0.132185220718383789
+   r -0.891939640045166016
+   m 0.940894603729248047 -0.143875464797019958 0.306622296571731567 0 0.327729493379592896 0.615272104740142822 -0.716961383819580078 0 -0.0855030044913291931 0.775074243545532227 0.626058399677276611 0 0 0 0 1
+   c -0.0140833333134651184 0.00158333336003124714 0.0142500000074505806
+   pd 0
+   pno 0
+   pfo 0
+   pf 4
+   pv 0
+   NowUse 0
+   DrawingType 1
+   LightVector 90 90 150 0
+   OGLShadow(UseShadows) 0
+   OGLShadow(RenderMode) RenderNice
+   OGLShadow(ShadowBias) -0.002
+   OGLShadow(AmbientShadows) 1
+   OGLShadow(UseFBO) 0
+   OGLShadow(FBOSize) 2048
+   OGLShadow(DimmedLightFactor) 0.02
+   OGLStereo(UseStereo) 0
+   OGLStereo(RelativeEyeDistance) 1
+   OGLStereo(FlipEyes) 0
+   OGLStereo(StereoMode) AnaglyphColors
+   OGLStereo(EyeDistance) 0.075
+   OGLStereo(LeftEyeDistance) 1 0 0 1
+   OGLStereo(RightEyeDistance) 0 1 1 1
+EndZE C:/ERMES/ERMES-20.0.3/Examples/Eddy_Currents.gid/Eddy_Currents.vv
+
+BeginMirror
+   Mirror 0 Angle 0.0 AngleFake -15.0 SizeFactor 2.0 HeightOffset 0.25 Color #d9e5f24d Backlight Off EdgeStyle No Type Scene DrawMode Mirror
+EndMirror
+
